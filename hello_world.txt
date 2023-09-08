@@ -1,0 +1,2 @@
+Testing staging and commiting.
+Multiple files at once.
